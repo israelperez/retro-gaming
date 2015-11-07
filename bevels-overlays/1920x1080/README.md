@@ -96,3 +96,18 @@ This setup is for a screen size of 1920 x 1080. To add these overlays to your re
     input_overlay_enable = "true"
     input_overlay_opacity = 1.000000
     input_overlay_scale = 1.000000
+
+##WonderSwan Color
+/opt/retropie/configs/wonderswanc/retroarch.cfg
+
+    video_fullscreen_x = 1920
+    video_fullscreen_y = 1080
+    custom_viewport_width = 1120
+    custom_viewport_height = 720
+    custom_viewport_x = 401
+    custom_viewport_y = 180
+    aspect_ratio_index = 22
+    input_overlay = /opt/retropie/emulators/retroarch/overlays/1080p/WonderSwanColor_1080p.cfg
+    input_overlay_enable = "true"
+    input_overlay_opacity = 1.000000
+    input_overlay_scale = 1.000000
