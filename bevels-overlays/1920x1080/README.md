@@ -36,7 +36,7 @@ This setup is for a screen size of 1920 x 1080. To add these overlays to your re
     input_overlay_scale = 1.000000
 
 ##Gameboy Advanced
-/opt/retropie/configs/gbc/retroarch.cfg
+/opt/retropie/configs/gba/retroarch.cfg
 
     video_smooth = false
     video_fullscreen_x = 1920
