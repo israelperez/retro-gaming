@@ -82,6 +82,22 @@ This setup is for a screen size of 1920 x 1080. To add these overlays to your re
     input_overlay_opacity = 1.000000
     input_overlay_scale = 1.000000
 
+##NeoGeo Pocket Color
+/opt/retropie/configs/ngp/retroarch.cfg
+/opt/retropie/configs/ngpc/retroarch.cfg
+
+    video_fullscreen_x = 1920
+    video_fullscreen_y = 1080
+    custom_viewport_width = 800
+    custom_viewport_height = 760
+    custom_viewport_x = 563
+    custom_viewport_y = 161
+    aspect_ratio_index = 22
+    input_overlay = /opt/retropie/emulators/retroarch/overlays/1080p/NeoGeoPocketColor_1080p.cfg
+    input_overlay_enable = "true"
+    input_overlay_opacity = 1.000000
+    input_overlay_scale = 1.000000
+
 ##WonderSwan
 /opt/retropie/configs/wonderswan/retroarch.cfg
 
