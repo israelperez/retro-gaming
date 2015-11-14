@@ -12,7 +12,7 @@ This setup is for a screen size of 1920 x 1080. To add these overlays to your re
     video_fullscreen_y = 1080
     custom_viewport_width = 640
     custom_viewport_height = 576
-    custom_viewport_x = 640
+    custom_viewport_x = 654
     custom_viewport_y = 257
     aspect_ratio_index = 22
     input_overlay = /opt/retropie/emulators/retroarch/overlays/1080p/Gameboy_1080p.cfg
