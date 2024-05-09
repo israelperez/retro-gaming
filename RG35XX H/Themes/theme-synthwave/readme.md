@@ -7,7 +7,7 @@ A Theme usually contains all its assets in a folder, an installation .sh script 
 1. Extract the zip file and it should spit out a folder called APPS that contains everything the theme uses.
 2. The APPS folder also exists on the sd card in your ROMS folder. So just copy the contents there.
 3. Then place the SD card back into your device and boot it up.
-4. Navigate to RA EMULATION > APPS and the theme install script should be there now. Just run it and it will reboot with the new theme installed.
+4. The latest Stock OS Update or Stock mods have moved the APPS icon. If so navigate to APPS > APPS or navigate to RA EMULATION > APPS. One of these should work. Once you're in APPS, the theme install script should be there now. Just run it and it will reboot with the new theme installed.
 
 ## Change the boot screen
 
